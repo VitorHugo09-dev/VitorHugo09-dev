@@ -10,14 +10,9 @@ Ciência da Computação · UFJ
 
 ---
 
-### Conhecimentos
+### Tecnologias
 
-**C** · Lógica de programação · **HTML**
-
-Condicionais, laços, vetores, strings, funções e structs.
-
-### Trilha full stack
-
-HTML · CSS · JavaScript → Python · Flask → SQL · SQLite
-
-<sub>Plano de estudos com Git, GitHub, APIs, HTTP e Linux.</sub>
+**Linguagens:** C · JavaScript · Python  
+**Web:** HTML · CSS · Flask  
+**Banco de dados:** SQL · SQLite  
+**Ferramentas:** Git · GitHub · Linux
