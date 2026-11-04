@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VitorHugo09-dev/VitorHugo09-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Vitor Hugo 👋
 
-Here are some ideas to get you started:
+**Estudante de desenvolvimento de software**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construindo minha base em programação, um passo de cada vez.
+
+[Perfil no GitHub](https://github.com/VitorHugo09-dev)
+
+</div>
+
+---
+
+### Sobre mim
+
+Estou no início da minha jornada em desenvolvimento. Este espaço vai acompanhar meu aprendizado e a construção dos meus primeiros projetos.
+
+### Meu foco
+
+- Consolidar os fundamentos de programação e lógica.
+- Praticar a resolução de problemas com pequenos exercícios.
+- Aprender a organizar e documentar código com clareza.
+- Ganhar familiaridade com Git e GitHub.
+
+### Por aqui
+
+Meu portfólio está começando. Conforme eu avançar nos estudos, quero compartilhar exercícios, experimentos e projetos, explicando o que aprendi em cada etapa.
+
+---
+
+<div align="center">
+<sub>Aprender · Praticar · Evoluir</sub>
+</div>
