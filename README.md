@@ -12,7 +12,4 @@ Ciência da Computação · UFJ
 
 ### Tecnologias
 
-**Linguagens:** C · JavaScript · Python  
-**Web:** HTML · CSS · Flask  
-**Banco de dados:** SQL · SQLite  
-**Ferramentas:** Git · GitHub · Linux
+C · JavaScript · Python · HTML · CSS · Flask · SQL · SQLite · Git · GitHub
